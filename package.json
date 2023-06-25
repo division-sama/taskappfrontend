@@ -1,6 +1,6 @@
 {
-  "homepage": "http://division-sama.github.io/react-the-complete-guide",
-  "name": "react-the-complete-guide",
+  "homepage": "http://division-sama.github.io/taskappfrontend",
+  "name": "taskappfrontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
